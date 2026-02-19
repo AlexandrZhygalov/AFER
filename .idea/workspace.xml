@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5beefb04-0af2-42d2-9d81-705f0c973234" name="Changes" comment="rename lab1" />
+    <list default="true" id="5beefb04-0af2-42d2-9d81-705f0c973234" name="Changes" comment="rename lab1">
+      <change beforePath="$PROJECT_DIR$/.idea/AFER_lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lab_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +44,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="39nVUJ7kZ3Pi3wH3z71KUGjJm1b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,17 +60,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "lab__2",
+    "git-widget-placeholder": "lab__1",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Zhyhalov/PycharmProjects/PythonProject2/dataset",
+    "last_opened_file_path": "C:/Users/Zhyhalov/PycharmProjects/PythonProject2",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Zhyhalov\PycharmProjects\PythonProject2\dataset" />
       <recent name="C:\Users\Zhyhalov\PycharmProjects\PythonProject2" />
+      <recent name="C:\Users\Zhyhalov\PycharmProjects\PythonProject2\dataset" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zhyhalov\PycharmProjects\PythonProject2\dataset" />
